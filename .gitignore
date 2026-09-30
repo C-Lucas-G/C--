@@ -1,0 +1,4 @@
+*.exe
+*.o
+cal_res
+.vscode/
